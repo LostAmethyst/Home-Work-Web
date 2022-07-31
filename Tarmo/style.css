@@ -1,0 +1,12 @@
+.title {
+    color:rgb(214, 0, 0);
+}
+
+html {
+    background-color: aqua;
+}
+
+.new_foto {
+    height: 30%;
+    width: 30%;
+} 
